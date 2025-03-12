@@ -4,6 +4,10 @@ A Model Context Protocol server
 
 This is a TypeScript-based MCP server that provides tools to fetch Python documentation using the Brave Search API.
 
+<a href="https://glama.ai/mcp/servers/8xhmttyi7e">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/8xhmttyi7e/badge" alt="Python Docs Server MCP server" />
+</a>
+
 ## Features
 
 ### Tools
