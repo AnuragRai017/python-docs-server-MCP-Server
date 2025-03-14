@@ -1,4 +1,5 @@
 # python-docs-server MCP Server
+[![smithery badge](https://smithery.ai/badge/@AnuragRai017/python-docs-server-MCP-Server)](https://smithery.ai/server/@AnuragRai017/python-docs-server-MCP-Server)
 
 A Model Context Protocol server
 
@@ -29,6 +30,14 @@ npm run watch
 ```
 
 ## Installation
+
+### Installing via Smithery
+
+To install Python Documentation Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@AnuragRai017/python-docs-server-MCP-Server):
+
+```bash
+npx -y @smithery/cli install @AnuragRai017/python-docs-server-MCP-Server --client claude
+```
 
 To use with Claude Desktop, add the server config:
 
