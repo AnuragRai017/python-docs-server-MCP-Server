@@ -1,3 +1,5 @@
+---
+
 # python-docs-server MCP Server
 
 A Model Context Protocol server
@@ -32,7 +34,7 @@ npm run watch
 
 To use with Claude Desktop, add the server config:
 
-On MacOS: `~/Library/Application Support/Claude/claude_desktop_config.json`
+On MacOS: `~/Library/Application Support/Claude/claude_desktop_config.json`  
 On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
 
 ```json
@@ -54,3 +56,11 @@ npm run inspector
 ```
 
 The Inspector will provide a URL to access debugging tools in your browser.
+
+## Additional Resources
+
+- [Glama AI Server](https://glama.ai/mcp/servers/@AnuragRai017/python-docs-server-MCP-Server)  
+- [Smithery AI Server](https://smithery.ai/server/@AnuragRai017/python-docs-server-MCP-Server)
+
+---
+
